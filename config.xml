@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-		id        = "com.appplatform.lakecountry"
+		id        = "com.appplatform.mademoone"
 		version   = "1.1.0">
 		
-    <name>Lake Country Insurance Services</name>
+    <name>MoneyAbility Demo One</name>
 
     <description>
-        The Lake Country Insurance Services app allows you to get in touch with your Lake Country Insurance Services Agent or Call in a Claim directly from within the application. It's easy and it's free. 
+        MoneyAbility Demo App 
     </description>
 
     <author href="http://app-platform.net" email="info@app-platform.net">
